@@ -1,2 +1,2 @@
 # Digital-Clock
-html-css-javascript
+html-css-javaScript
